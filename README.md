@@ -2,8 +2,6 @@
 
 <img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" />
 
-<p style="color:#FF00FF;">This is pink text</p>
-
 ---
 
 ### **`Computer Science Student | Tech Enthusiast | Retro Gamer`**
