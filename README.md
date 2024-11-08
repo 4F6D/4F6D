@@ -13,7 +13,7 @@ In my free time, I explore **neon-lit classics** from the **80s**, **90s**, and 
 #### 🎮 **Skills & Interests:**
 
 - **💻 Tech Enthusiast**: PUDU Robots, Lenovo hardware, and all things **techno-futuristic**.
-- **🎮 Retro Gaming**: Games, consoles, and tech from the **80s/90s/2000s**. *No limits, just neon lights!*
+- **🎮 Retro Gaming**: Games, consoles, and tech from the **80s/90s/2000s**. *No limits*
 - **⚙️ Programming**: Graphics, game engine development, and software engineering with a hint of **synthwave magic**.
 - **🛠️ Projects**: I build things that resonate in both the **real** and **virtual worlds**.
 
@@ -24,8 +24,9 @@ In my free time, I explore **neon-lit classics** from the **80s**, **90s**, and 
 I'm **fascinated by old-school tech** and its magical impact on gaming and engineering. From **pixel art** to **neon graphics**, these limitations sparked creativity, and I want to explore and recreate that magic in modern tech.
 
 💖 **Retro Tech Love**:
-- Neon dreams, pixelated screens
-- 80s synths and glowing computers
+- Old-school games
+- Classic hardware
+- Vintage computers
 - Arcade classics and vintage hardware
 
 ---
@@ -48,12 +49,12 @@ I'm **fascinated by old-school tech** and its magical impact on gaming and engin
 
 #### 🌆 **Synthwave: Old Tech, New Vibes**
 
-In the neon glow of **retro-futurism**, there’s something timeless about **synthwave** culture. It’s the pulse of the 80s, carried on the winds of **futuristic tech**—the **synths**, the **glowing pixels**, and the **electric beats**.
+There's something about **retro tech** that sparks joy! The 8-bit sounds, pixelated graphics, and the limited hardware that made us think outside the box — that’s what I love about retro gaming.
 
 🌟 **What I Love:**
-- Pixel art aesthetics in **neon colors**
-- Vintage computers & **cyberpunk dreams**
-- 80s sci-fi movies and **retro gaming universes**
+- Pixel art aesthetics
+- Vintage computers
+- Tech
 
 ---
 
@@ -61,13 +62,11 @@ In the neon glow of **retro-futurism**, there’s something timeless about **syn
 
 Whether you’re a **fellow tech enthusiast**, **gamer**, or someone who’s obsessed with retro tech vibes, **let’s collaborate** and make something **magical**! 
 
-🎧 **Turn up the synthwave music and let’s code together!**
-
 ---
 
 #### 📢 **Follow My Projects**
 
-You can find all of my **projects** here. Each one represents something I care about—whether it’s helping me learn, pushing the boundaries of retro gaming, or exploring new possibilities in tech.
+You’ll find all of my **ongoing projects** here in the repositories! I collect things that I care about, things that help me study, or stuff that simply sparks my interest.
 
 <p align="left">
    <a href="https://github.com/4F6D?tab=followers">
@@ -86,5 +85,5 @@ You can find all of my **projects** here. Each one represents something I care a
 
 ---
 
-### 🌸 **Stay Neon, Stay Retro!** 💻
+### 🌸 **Stay Smart, Stay Retro!** 💻
 
