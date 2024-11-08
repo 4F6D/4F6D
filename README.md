@@ -12,7 +12,7 @@ In my free time, I explore **neon-lit classics** from the **80s**, **90s**, and 
 
 #### 🎮 **Skills & Interests:**
 
-- **💻 Tech Enthusiast**: PUDU Robots, Lenovo hardware, and all things **techno-futuristic**.
+- **💻 Tech Enthusiast**: Software, Hardware, and all things **techno-futuristic**.
 - **🎮 Retro Gaming**: Games, consoles, and tech from the **80s/90s/2000s**. *No limits*
 - **⚙️ Programming**: Graphics, game engine development, and software engineering with a hint of **synthwave magic**.
 - **🛠️ Projects**: I build things that resonate in both the **real** and **virtual worlds**.
