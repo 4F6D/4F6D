@@ -16,7 +16,7 @@ When I'm not coding, you’ll find me exploring the **neon-lit classics** of the
 
 ---
 
-#### 🎮 **Skills & Interests:**
+## 🎮 **Skills & Interests:**
 
 - **💻 Tech Enthusiast**: Passionate about **software**, **hardware**, and everything related to **techno-futuristic** innovations.
 - **🎮 Retro Gaming**: Deep interest in games, consoles, and tech from the **80s/90s/2000s**. *Exploring the roots of gaming.*
@@ -25,7 +25,7 @@ When I'm not coding, you’ll find me exploring the **neon-lit classics** of the
 
 ---
 
-#### 💬 **My Passion for Retro Tech:**
+## 💬 **My Passion for Retro Tech:**
 
 I am **fascinated by old-school tech** and the profound impact it had on gaming and software engineering. From the limitations of **pixel art** to the neon glow of early gaming consoles, the challenges of retro technology sparked immense creativity. My goal is to bring back that **magic** while pushing the boundaries of what modern technology can achieve.
 
@@ -39,7 +39,7 @@ I am **fascinated by old-school tech** and the profound impact it had on gaming 
 
 ---
 
-### 🧰 **Languages & Tools**
+## 🧰 **Languages & Tools**
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -55,7 +55,7 @@ I am **fascinated by old-school tech** and the profound impact it had on gaming 
 
 ---
 
-#### 🌆 **Old Tech, New Vibes**
+## 🌆 **Old Tech, New Vibes**
 
 There’s something incredibly inspiring about **retro tech**. The **8-bit sounds**, **pixelated graphics**, and **hardware limitations** forced early developers to think creatively and build without the resources we take for granted today. I seek to merge this nostalgia with modern technology, finding inspiration in the **synthwave** culture that celebrates this aesthetic.
 
@@ -66,13 +66,13 @@ There’s something incredibly inspiring about **retro tech**. The **8-bit sound
 
 ---
 
-#### 🏆 **Let’s Create the Future!**
+## 🏆 **Let’s Create the Future!**
 
 Whether you're a **fellow tech enthusiast**, **gamer**, or simply someone who shares a love for **retro tech**, I’d love to collaborate and explore new possibilities together. Let’s build something **magical** that bridges the best of both worlds.
 
 ---
 
-#### 📢 **Follow My Projects**
+## 📢 **Follow My Projects**
 
 You can explore my ongoing **projects** here in my repositories! These are the things I care about—whether for my studies, work, or simply because they spark my curiosity.
 
@@ -87,7 +87,7 @@ You can explore my ongoing **projects** here in my repositories! These are the t
 
 ---
 
-### 📊 Stats
+## 📊 Stats
 
 ![4F6D's GitHub stats](https://github-readme-stats.vercel.app/api?username=4F6D&show_icons=true&theme=radical)
 
