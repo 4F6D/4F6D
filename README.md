@@ -1,6 +1,5 @@
 # 🎮 4F6D (René) 💻
 
----
 
 ### **`Computer Science Student | Tech Enthusiast | Retro Gamer`**
 
