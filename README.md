@@ -1,15 +1,15 @@
 # 🌸🎮 4F6D (René) 💻
 
+### **`Computer Science Student | Tech Enthusiast | Retro Gamer`**
+
 <img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" />
 
 
-### **`Computer Science Student | Tech Enthusiast | Retro Gamer`**
+👾 **Welcome to my GitHub profile!** 👾
 
-👾 **Welcome to my Synthwave-inspired GitHub profile!** 👾
+I'm **4F6D(René)**, a full-time **Computer Science student** with a passion for **retro tech**, **graphics programming**, **game engine development**, and everything that makes technology both fun and futuristic! 
 
-I'm **René**, a full-time **Computer Science student** with a passion for **retro tech**, **graphics programming**, **game engine development**, and everything that makes technology both fun and futuristic! 
-
-In my free time, I explore **neon-lit classics** from the **80s**, **90s**, and **2000s**—a time of pixelated wonders, **arcade machines**, and **synth beats**. The nostalgia of the past, combined with the tech of today, keeps me inspired and creative.
+In my free time, I explore **neon-lit classics** from the **80s**, **90s**, and **2000s**—a time of pixelated wonders and **arcade machines**. The nostalgia of the past, combined with the tech of today, keeps me inspired and creative.
 
 ---
 
