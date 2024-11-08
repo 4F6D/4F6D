@@ -1,6 +1,9 @@
 # 🌸🎮 4F6D (René) 💻
 
-### **`Computer Science Student | Tech Enthusiast | Retro Gamer`**
+![Computer Science Student](https://img.shields.io/badge/Computer_Science_Student-4C89F0?style=for-the-badge&logo=python&logoColor=white)
+![Tech Enthusiast](https://img.shields.io/badge/Tech_Enthusiast-FF00FF?style=for-the-badge&logo=react&logoColor=white)
+![Retro Gamer](https://img.shields.io/badge/Retro_Gamer-FF5733?style=for-the-badge&logo=playstation&logoColor=white)
+
 <img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" />
 
 ---
