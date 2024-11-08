@@ -8,7 +8,7 @@
 
 ---
 
-##Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 
 I am **René** (4F6D), a full-time **Computer Science student** with a passion for **retro technology**, **graphics programming**, and **game engine development**. My work revolves around combining the **nostalgic charm** of retro tech with the power of modern programming to create innovative and engaging experiences.
 
