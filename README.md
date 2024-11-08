@@ -9,6 +9,14 @@
 - **⚙️ Programming**: Graphics, engine development, and general software engineering.
 - **🛠️ Projects**: I build things that matter for my studies, work, or just pure fun!
 
+---
+
+#### 📢 **Follow My Projects** 
+
+You’ll find all of my **ongoing projects** here in the repositories! I collect things that I care about, things that help me study, or stuff that simply sparks my interest.
+
+---
+
 Below is a list of **technologies** I've worked with or have a basic understanding of. While I'm not an expert in everything, I'm always learning and improving my skills!
 
 ---
