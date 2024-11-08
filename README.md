@@ -2,11 +2,11 @@
 
 **`Computer Science Student & Tech Enthusiast`**
 
-Hi there! I'm a full-time Computer Science student with a background as a licensed technician working on PUDU Robots and Lenovo hardware. I'm deeply passionate about all things tech and science, but my main interests lie in **videogames**, **graphics programming**, **engine development**, and **engineering** in general.
+Hi there! I'm a full-time Computer Science student with a background as a licensed technician working on PUDU Robots and Lenovo hardware. I'm deeply passionate about all things tech and science, but my main interests lie in <span style="color: orange;">**videogames**</span>, <span style="color: orange;">**graphics programming**</span>, <span style="color: orange;">**engine development**</span>, and <span style="color: orange;">**engineering**</span> in general.
 
 I use this space to collect projects that are either meaningful to my studies, my work, or just things that excite me and might be useful for others as well.
 
-❤️ **Old-school tech** from the 80s, 90s, and 2000s is a huge love of mine — there's something about retro games and hardware that just fascinates me.
+❤️ <span style="color: orange;">**Old-school tech**</span> from the 80s, 90s, and 2000s is a huge love of mine — there's something about retro games and hardware that just fascinates me.
 
 The languages and tools listed here are ones I have worked with before, or at least have a basic understanding of. While I’m not a pro in every area, I’m constantly learning and improving!
 
