@@ -1,25 +1,5 @@
 # 🌸🎮 4F6D (René) 💻
 
-### **`Computer Science Student | Tech Enthusiast | Retro Gamer`**
-
-<img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" />
-
-
-👾 **Welcome to my GitHub profile!** 👾
-
-I'm **4F6D(René)**, a full-time **Computer Science student** with a passion for **retro tech**, **graphics programming**, **game engine development**, and everything that makes technology both fun and futuristic! 
-
-In my free time, I explore **neon-lit classics** from the **80s**, **90s**, and **2000s**—a time of pixelated wonders and **arcade machines**. The nostalgia of the past, combined with the tech of today, keeps me inspired and creative.
-
----
-
-#### 🎮 **Skills & Interests:**
-
-- **💻 Tech Enthusiast**: Software, Hardware, and all things **techno-futuristic**.
-- **🎮 Retro Gaming**: Games, consoles, and tech from the **80s/90s/2000s**. *No limits*
-- **⚙️ Programming**: Graphics, game engine development, and software engineering with a hint of **synthwave magic**.
-# 🌸🎮 4F6D (René) 💻
-
 <img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" />
 
 ---
@@ -53,6 +33,7 @@ I am **fascinated by old-school tech** and the profound impact it had on gaming 
 - **Old-school games**
 - **Classic hardware**
 - **Retro Consoles & Games**
+- **SNES❤️**
 
 ---
 
@@ -111,5 +92,4 @@ You can explore my ongoing **projects** here in my repositories! These are the t
 ---
 
 ### 🌸 **Stay Smart, Stay Retro!** 💻
-
 
