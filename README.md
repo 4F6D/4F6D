@@ -2,7 +2,7 @@
 
 ### **`Computer Science Student | Tech Enthusiast | Retro Gamer`**
 
-👾 **Welcome to my retro-inspired GitHub profile!** 👾
+👾 **Welcome to my GitHub profile!** 👾
 
 I'm **René**, a full-time **Computer Science student** with a passion for **retro tech**, **graphics programming**, **game engine development**, and everything that makes technology fun! 
 
