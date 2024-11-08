@@ -1,6 +1,7 @@
 # 🌸🎮 4F6D (René) 💻
 
-![Synthwave Background]([https://media.giphy.com/media/Y2x5uHWxRIE6j9eXg1/giphy.gif](https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif))
+![Synthwave Background](https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif)
+
 
 ### **`Computer Science Student | Tech Enthusiast | Retro Gamer`**
 
