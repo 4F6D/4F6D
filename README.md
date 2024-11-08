@@ -6,6 +6,8 @@ I'm a full time computer science student and ex technician licensed working of P
 but my biggest passion are probably videogames, graphics programming, engine development and engineering in general. I will collect projects here that I care about or have a real world
 value for my studies, work or for me and other in general. 
 
+❤️:suspect: I love old technology from the 80s/90s/2000s and I am in love with retro games, they just fascinate me :suspect:  ❤️
+
 The listed Languages and Tools are the ones I have worked with in the past or understand atleast on a beginner and basics level. It doesn't mean I am fluent or very skilled in these.
 
 
