@@ -16,6 +16,7 @@ The listed Languages and Tools are the ones I have worked with in the past or un
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/4F6D?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+---
 
 ### 🧰 Languages and Tools
 
