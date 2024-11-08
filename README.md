@@ -9,6 +9,8 @@
 - **⚙️ Programming**: Graphics, engine development, and general software engineering.
 - **🛠️ Projects**: I build things that matter for my studies, work, or just pure fun!
 
+Below is a list of **technologies** I've worked with or have a basic understanding of. While I'm not an expert in everything, I'm always learning and improving my skills!
+
 ---
 
    <p align="left">
@@ -19,9 +21,6 @@
    </p>
 
 ---
-
-below is a list of **technologies** I've worked with or have a basic understanding of. While I'm not an expert in everything, I'm always learning and improving my skills!
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
