@@ -90,7 +90,6 @@ You can explore my ongoing **projects** here in my repositories! These are the t
 ### 📊 Stats
 
 ![4F6D's GitHub stats](https://github-readme-stats.vercel.app/api?username=4F6D&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=4F6D&bg_color=ffcc00&color=000&line=003366&point=003366&area=true)
 
 ---
 
