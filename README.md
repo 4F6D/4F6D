@@ -1,14 +1,15 @@
 # :computer: 4F6D (René) 💻
 
-** `Computer-Science Student and a big Nerd (duh) `**
+**`Computer Science Student & Tech Enthusiast`**
 
-I'm a full time computer science student and ex technician licensed working of PUDU Robots and Lenovo Hardware. I am interested in every field of computer science or science in general,
-but my biggest passion are probably videogames, graphics programming, engine development and engineering in general. I will collect projects here that I care about or have a real world
-value for my studies, work or for me and other in general. 
+Hi there! I'm a full-time Computer Science student with a background as a licensed technician working on PUDU Robots and Lenovo hardware. I'm deeply passionate about all things tech and science, but my main interests lie in videogames, graphics programming, engine development, and engineering in general.
 
-❤️I love old technology from the 80s/90s/2000s and I am in love with retro games, they just fascinate me.
+I use this space to collect projects that are either meaningful to my studies, my work, or just things that excite me and might be useful for others as well.
 
-The listed Languages and Tools are the ones I have worked with in the past or understand atleast on a beginner and basics level. It doesn't mean I am fluent or very skilled in these.
+❤️ Old-school tech from the 80s, 90s, and 2000s is a huge love of mine — there's something about retro games and hardware that just fascinates me.
+
+The languages and tools listed here are ones I have worked with before, or at least have a basic understanding of. While I’m not a pro in every area, I’m constantly learning and improving!
+
 
 
    <p align="left">
