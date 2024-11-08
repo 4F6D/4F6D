@@ -10,7 +10,14 @@ I use this space to collect projects that are either meaningful to my studies, m
 
 The languages and tools listed here are ones I have worked with before, or at least have a basic understanding of. While I’m not a pro in every area, I’m constantly learning and improving!
 
+#### 🎮 **Skills & Interests:**
 
+- **💻 Tech Enthusiast**: PUDU Robots, Lenovo hardware, and all things tech.
+- **🎮 Retro Gaming**: Games, consoles, and tech from the **80s/90s/2000s**. *Can’t beat the classics!*
+- **⚙️ Programming**: Graphics, engine development, and general software engineering.
+- **🛠️ Projects**: I build things that matter for my studies, work, or just pure fun!
+
+---
 
    <p align="left">
       <a href="https://github.com/4F6D?tab=followers">
