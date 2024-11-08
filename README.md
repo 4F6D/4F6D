@@ -29,15 +29,6 @@ I am **fascinated by old tech** and its impact on gaming and software engineerin
 - Vintage computers
 
 ---
-
-   <p align="left">
-      <a href="https://github.com/4F6D?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/4F6D?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/4F6D?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/4F6D?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -69,6 +60,14 @@ Whether you’re a **fellow tech enthusiast**, **gamer**, or just want to share 
 #### 📢 **Follow My Projects** 
 
 You’ll find all of my **ongoing projects** here in the repositories! I collect things that I care about, things that help me study, or stuff that simply sparks my interest.
+
+
+   <p align="left">
+      <a href="https://github.com/4F6D?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/4F6D?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/4F6D?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/4F6D?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 ---
 
