@@ -58,8 +58,6 @@ I am **fascinated by old tech** and its impact on gaming and software engineerin
 
 There's something about **retro tech** that sparks joy! The 8-bit sounds, pixelated graphics, and the limited hardware that made us think outside the box — that’s what I love about retro gaming.
 
-If you also love those *good ol' days*, let's chat! 📞
-
 ---
 
 #### 🏆 **Let's Make Some Magic!**
