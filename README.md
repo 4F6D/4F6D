@@ -1,10 +1,9 @@
 # 🌸🎮 4F6D (René) 💻
 
-<img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" />
-### <span style="color:#FF4C9C;">**`Computer Science Student | Tech Enthusiast | Retro Gamer`**</span>
----
-
 ### **`Computer Science Student | Tech Enthusiast | Retro Gamer`**
+<img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" />
+
+---
 
 Welcome to my GitHub profile!
 
