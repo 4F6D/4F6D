@@ -76,12 +76,6 @@ You’ll find all of my **ongoing projects** here in the repositories! I collect
 
 ---
 
-#### 🔥 **Latest Project**:
-![Retro Game Logo](https://via.placeholder.com/150x150?text=Retro+Logo)  
-**"My Retro Game Engine"** – A personal project that recreates the feel of old-school 8-bit gaming! It’s been fun, and I’d love feedback! 🚀
-
----
-
 ### 📊 Stats
 
 ![4F6D's GitHub stats](https://github-readme-stats.vercel.app/api?username=4F6D&show_icons=true&theme=gruvbox)
