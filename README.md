@@ -1,5 +1,7 @@
 # 🎮 4F6D (René) 💻
 
+---
+
 ### **`Computer Science Student | Tech Enthusiast | Retro Gamer`**
 
 👾 **Welcome to my GitHub profile!** 👾
@@ -29,6 +31,7 @@ I am **fascinated by old tech** and its impact on gaming and software engineerin
 - Vintage computers
 
 ---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -43,7 +46,7 @@ I am **fascinated by old tech** and its impact on gaming and software engineerin
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+---
 
 #### 🎮 **Old-School Tech**
 
@@ -61,13 +64,14 @@ Whether you’re a **fellow tech enthusiast**, **gamer**, or just want to share 
 
 You’ll find all of my **ongoing projects** here in the repositories! I collect things that I care about, things that help me study, or stuff that simply sparks my interest.
 
-
-   <p align="left">
-      <a href="https://github.com/4F6D?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/4F6D?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/4F6D?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/4F6D?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="left">
+   <a href="https://github.com/4F6D?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/4F6D?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   </a>
+   <a href="https://github.com/4F6D?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/4F6D?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   </a>
+</p>
 
 ---
 
@@ -75,18 +79,3 @@ You’ll find all of my **ongoing projects** here in the repositories! I collect
 
 ![4F6D's GitHub stats](https://github-readme-stats.vercel.app/api?username=4F6D&show_icons=true&theme=gruvbox)
 
-
-<!--
-**4F6D/4F6D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
