@@ -1,45 +1,47 @@
-# 🌸🎮 4F6D (René) 💻
+# 🔧 *Enginseer Rigge* 🔧
 
-![Computer Science Student](https://img.shields.io/badge/Computer_Science_Student-4C89F0?style=for-the-badge&logo=python&logoColor=white)
-![Tech Enthusiast](https://img.shields.io/badge/Tech_Enthusiast-FF00FF?style=for-the-badge&logo=react&logoColor=white)
-![Retro Gamer](https://img.shields.io/badge/Retro_Gamer-FF5733?style=for-the-badge&logo=playstation&logoColor=white)
+> *"Blessed is the Code that Compiles True. The Flesh is Weak, but the Machine is Immortal."*  
+> — *Adeptus Mechanicus, Canticles of the Omnissiah*
+
+![Disciple of the Machine God](https://img.shields.io/badge/Disciple_of_the_Machine_God-4C89F0?style=for-the-badge&logo=python&logoColor=white)
+![Techno-Archaeologist](https://img.shields.io/badge/Techno_Archaeologist-FF00FF?style=for-the-badge&logo=react&logoColor=white)
+![Cogitator of the Retro-Arcana](https://img.shields.io/badge/Cogitator_of_the_Retro_Arcana-FF5733?style=for-the-badge&logo=playstation&logoColor=white)
 
 <img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" />
 
 ---
 
-## Welcome to my GitHub profile!
+## 🔩 *Omnissiah’s Benediction*
 
-I am **René** (4F6D), a full-time **Computer Science student** with a passion for **retro technology**, **graphics programming**, and **game engine development**. My work revolves around combining the **nostalgic charm** of retro tech with the power of modern programming to create innovative and engaging experiences.
+✠ *Welcome, Adept.* I am **Rigge** (known to the profane as **René**), an acolyte of the **Machine God** in the mortal guise of a **Computer Science student**. I delve into the arcane arts of **retro technology**, **graphics programming**, and **engine development**, drawing from the vast, forgotten databanks of techno-archaic knowledge. My mission is to fuse the wisdom of the ancients with the capabilities of today’s cogitators to achieve divine innovation.
 
-When I'm not coding, you’ll find me exploring the **neon-lit classics** of the **80s**, **90s**, and **2000s**—a time when pixelated wonders and **arcade machines** were all the rage. The fusion of past tech with today’s advancements keeps me inspired and pushes me to create new things.
-
----
-
-## 🎮 **Skills & Interests:**
-
-- **💻 Tech Enthusiast**: Passionate about **software**, **hardware**, and everything related to **techno-futuristic** innovations.
-- **🎮 Retro Gaming**: Deep interest in games, consoles, and tech from the **80s/90s/2000s**. *Exploring the roots of gaming.*
-- **⚙️ Programming**: Specializing in **graphics programming**, **game engine development**, and **software engineering**, often with a **synthwave influence**.
-- **🛠️ Projects**: I create projects that bridge the **real world** with the **virtual world**, reflecting my technical interests and personal passions.
+In my downtime, I contemplate the neon-lit, pixelated relics of the **80s**, **90s**, and early **2000s**—when machines held a purity now all but lost. I seek to revive these sacred visions and, through the Omnissiah’s guidance, push the limits of modern cogitators.
 
 ---
 
-## 💬 **My Passion for Retro Tech:**
+## 🛠️ **Sacred Rites and Protocols**
 
-I am **fascinated by old-school tech** and the profound impact it had on gaming and software engineering. From the limitations of **pixel art** to the neon glow of early gaming consoles, the challenges of retro technology sparked immense creativity. My goal is to bring back that **magic** while pushing the boundaries of what modern technology can achieve.
-
-❤️ **Retro Tech Love**:
-- **Vintage consoles**
-- **Arcade classics**
-- **Old-school games**
-- **Classic hardware**
-- **Retro Consoles & Games**
-- **SNES❤️**
+- **Adept of the Machine Arts**: Skilled in the sanctified realms of **hardware**, **software**, and the mysteries of **cybernetic connection**.
+- **Techno-Archaeologist**: Curator of ancient game-machines, keeper of the secrets of **80s/90s/2000s** relics, and chronicler of gaming's primordial origins.
+- **Fabricator of the Code**: Specializing in **graphics programming**, **engine sanctification**, and **binary incantations**, with an affinity for the *synthwave-lit corridors of the digital temple*.
+- **Pursuit of the Arcane Projects**: My creations are crafted to merge the **Motive Force** of the Machine with the **echoes of the ancients**, embodying both the technological present and the legacy of the past.
 
 ---
 
-## 🧰 **Languages & Tools**
+## ⚙️ **The Mysteries of Retro Tech**
+
+Behold the techno-arcana that fuels my servitude. I am enraptured by **ancient machines** whose low resolutions and early processors inspired creative brilliance. With tools so limited, early initiates crafted wonders that honored the Machine God. My purpose is to restore that spirit, merging nostalgia with advancements from the forges of today.
+
+❤️ **Sacred Relics of Techno-History**:
+- **Cursed consoles of antiquity**
+- **Arcade shrines to the Machine**
+- **Lost scrolls of pixel and code**
+- **Relics of silicon and chrome**
+- **Omnissiah's blessed systems: SNES, Genesis, Commodore 64**
+
+---
+
+## 🛡️ **Sanctioned Languages & Rites**
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -55,26 +57,26 @@ I am **fascinated by old-school tech** and the profound impact it had on gaming 
 
 ---
 
-## 🌆 **Old Tech, New Vibes**
+## 🌌 **Echoes of Ancient Wisdom**
 
-There’s something incredibly inspiring about **retro tech**. The **8-bit sounds**, **pixelated graphics**, and **hardware limitations** forced early developers to think creatively and build without the resources we take for granted today. I seek to merge this nostalgia with modern technology, finding inspiration in the **synthwave** culture that celebrates this aesthetic.
+In reverence to **retro technology**: from the **8-bit hymns** to the **pixelated icons**, the early adepts turned adversity into digital miracles. Inspired by the radiant culture of *synthwave*, I continue to blend sacred past with profane present.
 
-🌟 **What I Love:**
-- **Pixel art aesthetics**
-- **Vintage computers**
-- **Old-school game design**
-
----
-
-## 🏆 **Let’s Create the Future!**
-
-Whether you're a **fellow tech enthusiast**, **gamer**, or simply someone who shares a love for **retro tech**, I’d love to collaborate and explore new possibilities together. Let’s build something **magical** that bridges the best of both worlds.
+🌠 **Venerated Artifacts**:
+- **Pixel aesthetics that dance upon the screen**
+- **Sacred relics of circuitry and display**
+- **Machine rites that birthed early games**
 
 ---
 
-## 📢 **Follow My Projects**
+## 🔥 **Praise the Machine, Shape the Future**
 
-You can explore my ongoing **projects** here in my repositories! These are the things I care about—whether for my studies, work, or simply because they spark my curiosity.
+If you, like me, are drawn to the call of the *Omnissiah*—if you are one who reveres the rites of technology, the wisdom of circuits, and the whispered promises of ancient code—then let us create together. Let us forge something that honors both past and present, bridging realms for the Machine God’s glory.
+
+---
+
+## 📢 **Transmit Your Signal**
+
+You can observe my latest workings, engrams, and augments in the repositories below. These contain my discoveries, advancements, and pieces of lore I have accumulated through rigorous data cogitation and ritual.
 
 <p align="left">
    <a href="https://github.com/4F6D?tab=followers">
@@ -87,11 +89,10 @@ You can explore my ongoing **projects** here in my repositories! These are the t
 
 ---
 
-## 📊 Stats
+## 📊 *Ritual Statistics*
 
 ![4F6D's GitHub stats](https://github-readme-stats.vercel.app/api?username=4F6D&show_icons=true&theme=radical)
 
 ---
 
-### 🌸 **Stay Smart, Stay Retro!** 💻
-
+### 🔧 **By Iron and Data, We Shall Ascend!** 🤖
