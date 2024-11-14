@@ -7,7 +7,7 @@
 ![Techno-Archaeologist](https://img.shields.io/badge/Techno_Archaeologist-FF00FF?style=for-the-badge&logo=react&logoColor=white)
 ![Cogitator of the Retro-Arcana](https://img.shields.io/badge/Cogitator_of_the_Retro_Arcana-FF5733?style=for-the-badge&logo=playstation&logoColor=white)
 
-<img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" />
+<img src="https://i.pinimg.com/originals/be/a0/46/bea0466b543e99cab1fb82e838771990.gif" width="100%" />
 
 ---
 
